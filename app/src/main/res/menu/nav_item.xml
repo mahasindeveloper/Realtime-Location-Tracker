@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+        android:tooltipText="#fff"
+
+        />
+
+  <item
+      android:id="@+id/natification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_notifications_none_24"
+        android:title="Notification" />
+ <item
+      android:id="@+id/histri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_history_toggle_off_24"
+        android:title="History" />
+
+  <item
+      android:id="@+id/profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_sentiment_very_satisfied_24"
+        android:title="Profile" />
+ <item
+     android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_error_outline_24"
+        android:title="About" />
+
+  <item
+      android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Logout" />
+
+
+
+</menu>

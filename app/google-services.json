@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633199658092",
+    "project_id": "fir-class-537f1",
+    "storage_bucket": "fir-class-537f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633199658092:android:132f219f6a18d40f224449",
+        "android_client_info": {
+          "package_name": "com.mahasin.armada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUGLSh9xXUjkygoB1tSTDfeMt0JMtcgOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
